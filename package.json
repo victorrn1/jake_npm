@@ -1,0 +1,25 @@
+{
+  "name": "jakee",
+  "version": "1.0.0",
+  "description": "Melhor aula de NPM do ano essa semana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorrn1/jake_npm.git"
+  },
+  "author": "Vitão da massa xD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorrn1/jake_npm/issues"
+  },
+  "homepage": "https://github.com/victorrn1/jake_npm#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  }
+}
