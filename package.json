@@ -17,9 +17,7 @@
   },
   "homepage": "https://github.com/victorrn1/jake_npm#readme",
   "dependencies": {
-    "jquery": "^3.3.1"
+    "maplace-js": "^0.2.10"
   },
-  "devDependencies": {
-    "jshint": "^2.9.5"
-  }
+  "devDependencies": {}
 }
